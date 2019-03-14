@@ -20,5 +20,14 @@
       <description>交易是比特币最核心的数据结构之一，交易的产生、共识、存储、传播都建立在其之上，所以我们先从交易展开，然后扩展到其他的部分。 我们可以使用Bit</description>
     </item>
     
+    <item>
+      <title>三洋服务介绍</title>
+      <link>https://sanyangdaixie.github.io/about/</link>
+      <pubDate>Sun, 13 Mar 2011 11:43:20 +0800</pubDate>
+      
+      <guid>https://sanyangdaixie.github.io/about/</guid>
+      <description>我们是一群挚爱coding的工程师，兴趣让我们聚在一起为大家解决各类编程难题。8年服务经验专注辅导代写CS类课业难题。 我们拥有藤校在读CS M</description>
+    </item>
+    
   </channel>
 </rss>
